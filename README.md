@@ -1,5 +1,6 @@
 \# 📊 DataOps Mini Lab
 
+![WhatsApp Image 2026-04-06 at 19 32 53](https://github.com/user-attachments/assets/91c909a6-4c71-4406-baa5-d7b1fb58daf2)
 
 
 Este projeto é um pipeline de dados simples desenvolvido como parte de um laboratório introdutório de DataOps.
